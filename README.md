@@ -1,10 +1,9 @@
 - 👋 Hello, I'm xQrewo!
-- 👀 I’m interested in programming in Python, I love MTB
-- 🌱 I’m currently learning Pyhton language
-- 💞️ I’m looking to collaborate on ...
+- 👀 Programmer in C++ and Python
+- 🌱 Learning how to earn money and doing
+  some projects with awesome people
 - 📫 How to reach me?
   mail: qrewo@protonmail.com
-  telegram: Max Gałuszka
   instagram: maksiu_galuszka
 
 <!---
