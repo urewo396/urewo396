@@ -1,10 +1,9 @@
-- 👋 Hello, I'm xQrewo!
-- 👀 Programmer in C++ and Python
-- 🌱 Learning how to earn money and doing
-  some projects with awesome people
-- 📫 How to reach me?
-  mail: qrewo@protonmail.com
-  instagram: maksiu_galuszka
+===== • ⚡️xQrewo⚡️ • =====
+💻 lil Programmer
+💸 Bounty hunter on Replit
+👾 Playmanity GameDev
+📎 C++ and Python enjoyer
+=========================
 
 <!---
 urewo396/urewo396 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
