@@ -1,9 +1,11 @@
 ======• ⚡️xQrewo⚡️ •======
+
 💻 lil programmer
 💸 Bounty hunter on Replit
 👾 Playmanity GameDev
 📎 C++ and Python enjoyer
-==========================
+
+===========================
 
 
 
