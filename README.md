@@ -1,15 +1,15 @@
-======• ⚡️xQrewo⚡️ •======
+# About me 
+1) Im just a kiddo that loves programming
+2) I program in C++, C#, Python and Lua
+3) I make some Roblox games (totally not for money)
+4) Im playmanity Game Developer
 
-💻 lil programmer
-💸 Bounty hunter on Replit
-👾 Playmanity GameDev
-📎 C++ and Python enjoyer
+If you want to collab write me a message
+```
+- Discord: xqrewo
+- Telegram: ---
+- Instagram: maksiu_galuszka
+```
 
-===========================
-
-
-
-<!---
-urewo396/urewo396 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+if you need people for your next games get in touch
+with me and let's begin our journey!
